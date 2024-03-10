@@ -51,18 +51,18 @@ h2{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(4,1fr);
-    gap: .2em;
-    border: .1em solid black;
-    padding: .1em;
+    gap: .1vw;
+    border: .1vw solid black;
+    padding: 0em;
     /* background-color: rgb(255, 193, 149); */
 }
 
 .obj{
     position: relative;
-    width: 6em;
-    height: 6em;
+    width: 8vw;
+    height: 8vw;
     overflow: hidden;
-    border: .2em solid grey;
+    border: .2vw solid grey;
 }
 
 .cover-img{
