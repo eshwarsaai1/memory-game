@@ -15,7 +15,6 @@ img{
 .text{
     display: flex;
     justify-content: center;
-    font-size: 2vw;
 }
 
 .title{
@@ -41,7 +40,6 @@ h2{
     display: flex;
     justify-content: center;
     color: rgb(16, 84, 16);
-    font-size: 2vw;
     /* visibility: hidden; */
 }
 
@@ -61,8 +59,8 @@ h2{
 
 .obj{
     position: relative;
-    width: 10vw;
-    height: 10vw;
+    width: 8vw;
+    height: 8vw;
     overflow: hidden;
     border: .2vw solid grey;
 }
